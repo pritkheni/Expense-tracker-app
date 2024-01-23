@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+@layer base {
+  * {
+    @apply box-border m-0 p-0 font-lato;
+  }
+}
