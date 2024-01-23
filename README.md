@@ -34,7 +34,7 @@ Expense Tracker is a simple web application built with React.js and Tailwind CSS
 2. Change into the project directory:
 
    ```bash
-   cd expense-tracker
+   cd Expense-tracker-app
 
    ```
 
