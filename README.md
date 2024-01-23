@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Screenshots](#screenshots)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -14,11 +13,6 @@
 ## Description
 
 Expense Tracker is a simple web application built with React.js and Tailwind CSS. It leverages React Context API and `useReducer` hooks to manage global state efficiently, allowing users to add and delete transactions and view the total income and expenses.
-
-## Screenshots
-
-![Add Transaction](./screenshots/add-transaction.png)
-![Expense Overview](./screenshots/expense-overview.png)
 
 ## Features
 
