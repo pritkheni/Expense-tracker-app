@@ -83,15 +83,15 @@ Expense Tracker is a simple web application built with React.js and Tailwind CSS
 The backend supports the following API routes:
 
 GET Transactions:
-Endpoint: http://localhost:3000/api/v1/transactions
+Endpoint: http://localhost:3000/api/v1/transactions\n
 Retrieves all transactions.
 
 POST Transaction:
-Endpoint: http://localhost:3000/api/v1/transactions
-Adds a new transaction. The request body should be a JSON object withthe following structure: { "text": [tile of expense], "amount": [your amount positive or negative] }.
+Endpoint: http://localhost:3000/api/v1/transactions\n
+Adds a new transaction. The request body should be a JSON object withthe following structure:\n { "text": [title of expense], "amount": [your amount positive or negative] }.
 
 DELETE Transaction:
-Endpoint: http://localhost:3000/api/v1/transactions/:id
+Endpoint: http://localhost:3000/api/v1/transactions/:id\n
 Deletes a transaction with the specified ID.
 
 ## Contributing
